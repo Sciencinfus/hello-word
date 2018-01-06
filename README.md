@@ -9,4 +9,4 @@ line added with ATOM by Pierre
 
 Another line added in ATOM
 
-Replaced by a new one.
+Replaced by a new one
