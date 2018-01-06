@@ -5,4 +5,4 @@ Project done in order to understand how github works
 
 Added one more line in README.MD
 
-line added with ATOM
+line added with ATOM by Pierre
